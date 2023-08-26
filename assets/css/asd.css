@@ -1,0 +1,10 @@
+body.light  {
+    background-color: #fff; /* خلفية بيضاء */
+    color: #333; /* لون خط أسود */
+}
+
+body.dark {
+    background-color: #0a0606; /* خلفية سوداء فاتحة */
+    color: #167fe9; /* لون خط أزرق غامق */
+}
+
